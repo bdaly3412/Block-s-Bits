@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "blocks__bits:block/glowy_glowstone_block"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks__bits:blocks/glowy_glowstone",
+    "up": "blocks__bits:blocks/glowy_glowstone",
+    "north": "blocks__bits:blocks/glowy_glowstone",
+    "east": "blocks__bits:blocks/glowy_glowstone",
+    "south": "blocks__bits:blocks/glowy_glowstone",
+    "west": "blocks__bits:blocks/glowy_glowstone",
+    "particle": "blocks__bits:blocks/glowy_glowstone"
+  }
+}

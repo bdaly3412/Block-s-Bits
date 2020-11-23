@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "blocks__bits:blocks/orange_concrete",
+    "top": "blocks__bits:blocks/orange_concrete",
+    "side": "blocks__bits:blocks/orange_concrete"
+  }
+}

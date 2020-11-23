@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks__bits:blocks/mangrove_wood_planks",
+    "up": "blocks__bits:blocks/mangrove_wood_planks",
+    "north": "blocks__bits:blocks/mangrove_wood_planks",
+    "east": "blocks__bits:blocks/mangrove_wood_planks",
+    "south": "blocks__bits:blocks/mangrove_wood_planks",
+    "west": "blocks__bits:blocks/mangrove_wood_planks",
+    "particle": "blocks__bits:blocks/mangrove_wood_planks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks__bits:blocks/ender_lamp",
+    "up": "blocks__bits:blocks/ender_lamp",
+    "north": "blocks__bits:blocks/ender_lamp",
+    "east": "blocks__bits:blocks/ender_lamp",
+    "south": "blocks__bits:blocks/ender_lamp",
+    "west": "blocks__bits:blocks/ender_lamp",
+    "particle": "blocks__bits:blocks/redstone_block"
+  }
+}

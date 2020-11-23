@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "blocks__bits:blocks/orange_terracotta",
+    "top": "blocks__bits:blocks/orange_terracotta",
+    "side": "blocks__bits:blocks/orange_terracotta"
+  }
+}

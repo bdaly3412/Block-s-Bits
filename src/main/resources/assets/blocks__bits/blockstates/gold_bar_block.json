@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "blocks__bits:block/gold_bar_block"
+    }
+  }
+}

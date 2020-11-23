@@ -1,0 +1,26 @@
+{
+  "group": "blocks__bits",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blocks__bits:glow_glowstone"
+    },
+    "1": {
+      "item": "blocks__bits:glow_glowstone"
+    },
+    "2": {
+      "item": "blocks__bits:glow_glowstone"
+    },
+    "3": {
+      "item": "blocks__bits:glow_glowstone"
+    }
+  },
+  "result": {
+    "item": "blocks__bits:glowy_glowstone_block",
+    "count": 1
+  }
+}

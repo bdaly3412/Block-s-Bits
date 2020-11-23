@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "blocks__bits:block/ender_lamp"
+    }
+  }
+}

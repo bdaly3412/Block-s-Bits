@@ -1,0 +1,447 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "DarkStoneBrick",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_stone_brick"
+    },
+    {
+      "name": "DarkStoneBrickSlab",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_stone_brick_slab"
+    },
+    {
+      "name": "WhiteConcreteSlab",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_concrete_slab"
+    },
+    {
+      "name": "BlackConcreteSlab",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_concrete_slab"
+    },
+    {
+      "name": "BlueConcreteSlab",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_concrete_slab"
+    },
+    {
+      "name": "CyanConcreteSlab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_concrete_slab"
+    },
+    {
+      "name": "PurpleConcreteSlab",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_concrete_slab"
+    },
+    {
+      "name": "LightBlueConcreteSlab",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_concrete_slab"
+    },
+    {
+      "name": "OrangeConcreteSlab",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_concrete_slab"
+    },
+    {
+      "name": "MagentaConcreteSlab",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_concrete_slab"
+    },
+    {
+      "name": "YellowConcreteSlab",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_concrete_slab"
+    },
+    {
+      "name": "LimeConcreteSlab",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_concrete_slab"
+    },
+    {
+      "name": "PinkConcreteSlab",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_concrete_slab"
+    },
+    {
+      "name": "GrayConcreteSlab",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_concrete_slab"
+    },
+    {
+      "name": "LightGrayConcreteSlab",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_concrete_slab"
+    },
+    {
+      "name": "BrownConcreteSlab",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_concrete_slab"
+    },
+    {
+      "name": "GreenConcreteSlab",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_concrete_slab"
+    },
+    {
+      "name": "RedConcreteSlab",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_concrete_slab"
+    },
+    {
+      "name": "WhiteTereacottaSlab",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_tereacotta_slab"
+    },
+    {
+      "name": "BlackTerracottaSlab",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_terracotta_slab"
+    },
+    {
+      "name": "OrangeTerracottaSlab",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_terracotta_slab"
+    },
+    {
+      "name": "MagentaTerracottaSlab",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_terracotta_slab"
+    },
+    {
+      "name": "CyanTerracottaSlab",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_terracotta_slab"
+    },
+    {
+      "name": "LightBlueTerracottaSlab",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_terracotta_slab"
+    },
+    {
+      "name": "YellowTerracottaSlab",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_terracotta_slab"
+    },
+    {
+      "name": "LimeTerracottaSlab",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_terracotta_slab"
+    },
+    {
+      "name": "PinkTerracottaSlab",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_terracotta_slab"
+    },
+    {
+      "name": "GrayTerracottaSlab",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_terracotta_slab"
+    },
+    {
+      "name": "LightGrayTerracottaSlab",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_terracotta_slab"
+    },
+    {
+      "name": "PurpleTerracottaSlab",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_terracotta_slab"
+    },
+    {
+      "name": "BlueTerracottaSlab",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_terracotta_slab"
+    },
+    {
+      "name": "BrownTerracottaSlab",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_terracotta_slab"
+    },
+    {
+      "name": "RedTerracottaSlab",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_terracotta_slab"
+    },
+    {
+      "name": "GreenTerracottaSlab",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_terracotta_slab"
+    },
+    {
+      "name": "GlowyGlowstoneBlock",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowy_glowstone_block"
+    },
+    {
+      "name": "GlowGlowstone",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glow_glowstone"
+    },
+    {
+      "name": "GlowyGlowstoneRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowy_glowstone_recipe"
+    },
+    {
+      "name": "EnderLamp",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_lamp"
+    },
+    {
+      "name": "EnchantedGrass",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enchanted_grass"
+    },
+    {
+      "name": "DarkPlanks",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_planks"
+    },
+    {
+      "name": "MangroveWood",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mangrove_wood"
+    },
+    {
+      "name": "GoldBarBlock",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_bar_block"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.blocks__bits.lime_concrete_slab": "Lime Concrete Slab",
+      "item.blocks__bits.glow_glowstone": "Glowy Glowstone Dust",
+      "block.blocks__bits.yellow_terracotta_slab": "Yellow Terracotta Slab",
+      "block.blocks__bits.light_gray_concrete_slab": "Light Gray Concrete Slab",
+      "block.blocks__bits.light_blue_concrete_slab": "Light Blue Concrete Slab",
+      "block.blocks__bits.red_terracotta_slab": "Red Terracotta Slab",
+      "block.blocks__bits.enchanted_grass": "Enchanted Grass",
+      "block.blocks__bits.ender_lamp": "Ender Lamp",
+      "block.blocks__bits.white_tereacotta_slab": "White Tereacotta Slab",
+      "block.blocks__bits.mangrove_wood": "Mangrove Wood",
+      "block.blocks__bits.light_gray_terracotta_slab": "Light Gray Terracotta Slab",
+      "block.blocks__bits.cyan_terracotta_slab": "Cyan Terracotta Slab",
+      "block.blocks__bits.yellow_concrete_slab": "Yellow Concrete Slab",
+      "block.blocks__bits.black_concrete_slab": "Black Concrete Slab",
+      "block.blocks__bits.dark_stone_brick_slab": "Dark Stone Brick Slab",
+      "block.blocks__bits.glowy_glowstone_block": "Glowy Glowstone Block",
+      "block.blocks__bits.pink_concrete_slab": "Pink Concrete Slab",
+      "block.blocks__bits.white_concrete_slab": "White Concrete Slab",
+      "block.blocks__bits.dark_planks": "Dark Planks",
+      "block.blocks__bits.brown_terracotta_slab": "Brown Terracotta Slab",
+      "block.blocks__bits.lime_terracotta_slab": "Lime Terracotta Slab",
+      "block.blocks__bits.purple_concrete_slab": "Purple Concrete Slab",
+      "block.blocks__bits.green_terracotta_slab": "Green Terracotta Slab",
+      "block.blocks__bits.gold_bar_block": "Gold Bar Block",
+      "block.blocks__bits.light_blue_terracotta_slab": "Light Blue Terracotta Slab",
+      "block.blocks__bits.pink_terracotta_slab": "Pink Terracotta Slab",
+      "block.blocks__bits.red_concrete_slab": "Red Concrete Slab",
+      "block.blocks__bits.gray_concrete_slab": "Gray Concrete Slab",
+      "block.blocks__bits.orange_terracotta_slab": "Orange Terracotta Slab",
+      "block.blocks__bits.magenta_terracotta_slab": "Magenta Terracotta Slab",
+      "block.blocks__bits.magenta_concrete_slab": "Magenta Concrete Slab",
+      "block.blocks__bits.brown_concrete_slab": "Brown Concrete Slab",
+      "block.blocks__bits.blue_concrete_slab": "Blue Concrete Slab",
+      "block.blocks__bits.gray_terracotta_slab": "Gray Terracotta Slab",
+      "block.blocks__bits.dark_stone_brick": "Dark Stone Brick ",
+      "block.blocks__bits.orange_concrete_slab": "Orange Concrete Slab",
+      "block.blocks__bits.blue_terracotta_slab": "Blue Terracotta Slab",
+      "block.blocks__bits.purple_terracotta_slab": "Purple Terracotta Slab",
+      "block.blocks__bits.cyan_concrete_slab": "Cyan Concrete Slab",
+      "block.blocks__bits.green_concrete_slab": "Green Concrete Slab",
+      "block.blocks__bits.black_terracotta_slab": "Black Terracotta Slab"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "blocks__bits",
+    "modName": "Blocks \u0026 Bits",
+    "version": "1.0.0",
+    "author": "jpdal, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.blocksbits",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547418
+}
